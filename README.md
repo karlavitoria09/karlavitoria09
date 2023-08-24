@@ -1,16 +1,15 @@
-### odeio o alura👋
+### adoro o prof david 
 
-<!--
-**karlavitoria09/karlavitoria09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome è karla vitoria
 
-Here are some ideas to get you started:
+- estou estudando na alura
+- estou me desnvolvendo na linguagem javascript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ultilizo esse epaço para minha organizaçâo e compartilhamento dos meus projetos desenvolvidos 
+
+  ### você entrar em contato comigo
+  karla.silva.oliveira@escola.pr.gov.br
+  ### @kbuenox
+
+
+![](ttps://media.thenor.com/CFRm9tIbXw8AAAAd/neymar-neymar-jr.gif)
